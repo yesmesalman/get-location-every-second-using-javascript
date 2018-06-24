@@ -1,6 +1,6 @@
 # Get location every second using JavaScript
 
-Get location every second using Google Maps API using JavaScript 
+Download or copy code of index.html and add credential, copy and paste API key on index.html and run  
 
 # Get all credentials
 
