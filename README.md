@@ -1,4 +1,4 @@
-# Get location every second using JavaScript
+# Get Live location using JavaScript
 
 Download or copy code of index.html and add credential, copy and paste API key on index.html and run  
 
